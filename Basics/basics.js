@@ -68,4 +68,8 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdeverb){
     return result;
 }
 
-console.log(wordBlanks('dog', 'big', 'ran', 'quickly'));
+//console.log(wordBlanks('dog', 'big', 'ran', 'quickly'));
+
+
+var myList = [['cereal', 3], ['milk', 1]];
+console.log(myList);
